@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "install": "^0.12.2",
+    "npm": "^6.8.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-scripts": "2.1.5"
+    "react-lines-ellipsis": "^0.14.0",
+    "react-player": "^1.9.3",
+    "react-scripts": "2.1.5",
+    "react-slick": "^0.23.2"
   },
   "scripts": {
     "start": "react-scripts start",
